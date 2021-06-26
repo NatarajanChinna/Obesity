@@ -1,0 +1,499 @@
+.col-1 {
+    background-color: rgba(242, 242, 242);
+    text-transform: uppercase;
+    color: rgba(82, 172, 191);
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    letter-spacing:2px;
+}
+.blue {
+    color: rgba(63, 93, 112);
+    text-transform: uppercase;
+    text-align: left;
+    position: relative;
+    bottom:35px;
+    font-size: 35px;
+    padding: 11px 0px 0px 0px;
+}
+.blue_right {
+    color: rgba(63, 93, 112);
+    text-transform: uppercase;
+    text-align: left;
+    position: relative;
+    bottom:280px;
+    font-size: 35px;
+    padding: 11px 0px 0px 0px;
+}
+.piz {
+    margin:25px 0px 0px 200px;
+    bottom:160px;
+    position: relative;
+}
+.doug {
+
+    bottom:160px;
+    position: relative;
+}
+.cl {
+    position: relative;
+    bottom:160px;
+}
+.adu {
+    color: rgba(244, 194, 29);
+    margin-left:190px;
+    padding:0px;
+    position: relative;
+    bottom:155px;
+   
+}
+.youn {
+    color: rgba(244, 194, 29);
+    margin-left:190px;
+    padding:0px;
+    bottom:145px;
+    position: relative;
+}
+.chil {
+    color: rgba(244, 194, 29);
+    margin-left:190px;
+    padding:0px;
+    bottom:165px;
+    position: relative;
+}
+.hue1 {
+    bottom:200px;
+    margin-left: 270px;
+    position: relative;
+    padding:0px;
+}
+.hue2 {
+    bottom:253px;
+    margin-left: 300px;
+    position: relative;
+    padding:0px;
+}
+.hue3 {
+    bottom:306px;
+    margin-left: 325px;
+    position: relative;
+    padding:0px;
+}
+.hue4 {
+    bottom:360px;
+    margin-left: 350px;
+    position: relative;
+    padding:0px;
+}
+.hue5 {
+    bottom:413px;
+    margin-left: 375px;
+    position: relative;
+    padding:0px;
+}
+.hue6 {
+    bottom:466px;
+    margin-left: 400px;
+    position: relative;
+    padding:0px;
+}
+.hue7 {
+    bottom:519px;
+    margin-left: 425px;
+    position: relative;
+    padding:0px;
+}
+.hue8 {
+    bottom:220px;
+    margin-left: 270px;
+    position: relative;
+    padding:0px;
+}
+.hue9 {
+    bottom:273px;
+    margin-left: 300px;
+    position: relative;
+    padding:0px;
+}
+.perc  {
+    margin-left:190px;
+    padding:0px;
+    color:rgba(63, 93, 112);
+    font-size: 40px;
+    position: relative;
+    bottom:155px;
+}
+.perc_right {
+    margin-left:140px;
+    padding:0px;
+    color:rgba(244, 194, 29);
+    font-size: 60px;
+    position: relative;
+    bottom:360px;
+}
+.perc_vege {
+    margin-left:220px;
+    padding:0px;
+    color:rgba(244, 194, 29);
+    font-size: 60px;
+    position: relative;
+    bottom:530px;
+}
+.perc_meat {
+    margin-left:260px;
+    padding:0px;
+    color:rgba(244, 194, 29);
+    font-size: 60px;
+    position: relative;
+    bottom:700px;
+}
+.perc_milk {
+    margin-left:300px;
+    padding:0px;
+    color:rgba(244, 194, 29);
+    font-size: 60px;
+    position: relative;
+    bottom:865px;
+}
+.chilper {
+    margin-left:190px;
+    padding:0px;
+    color:rgba(63, 93, 112);
+    font-size: 40px;
+    position: relative;
+    bottom:175px;
+}
+ .pale {
+ color: rgba(103, 179, 195);
+ text-align: left;
+    font-size: 25px;
+    padding: 11px 0px 0px 0px;
+}
+.imge {
+    margin:5px 0px 0px 300px;
+    bottom:120px;
+    position: relative;
+}
+.bread {
+    margin:5px 0px 0px 320px;
+    bottom:455px;
+    position: relative;
+}
+.vege {
+    margin:5px 0px 0px 370px;
+    bottom:610px;
+    position: relative;
+}
+.bone {
+    margin:5px 0px 0px 420px;
+    bottom:780px;
+    position: relative;
+}
+.milk_glass {
+    margin:5px 0px 0px 427px;
+    bottom:945px;
+    position: relative;
+}
+.diab {
+    color: rgba(63, 93, 112);
+    font-size:30px;
+    position: relative;
+    margin: 0px 0px 0px 110px;
+    bottom:70px;
+
+}
+.stro {
+    color: rgba(63, 93, 112);
+    font-size:30px;
+    position: relative;
+    margin: 0px 0px 0px 110px;
+    bottom:70px;
+}
+.sec_pep {
+    color: rgba(244, 194, 29);
+    font-size:30px;
+    position: relative;
+    margin: 0px 0px 0px 110px;
+    bottom:70px;
+    width: 200px;
+
+}
+.lor_ips {
+    color: rgba(103, 179, 195);
+    font-size: 12px;
+    margin: 0px 0px 0px 3px;
+    text-transform:initial;  
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing:normal;
+    position: relative;
+    bottom:60px;
+    width:346px;
+    margin:0px 0px 0px 120px;
+}
+.lor_pearum {
+    color: rgba(103, 179, 195);
+    font-size: 12px;
+    margin: 0px 0px 0px 3px;
+    text-transform:initial;  
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing:normal;
+    position: relative;
+    bottom:75px;
+    width:220px;
+    margin:0px 0px 0px 120px;
+}
+.smal_pep {
+    color: rgba(244, 194, 29);
+    font-size:30px;
+    position: relative;
+    margin: 0px 0px 0px 110px;
+    bottom:70px;
+
+
+}
+.fre {
+    margin:5px 0px 0px 10px;
+    bottom:120px;
+    position: relative;
+}
+
+.dou {
+    bottom:105px;
+    position: relative;
+}
+
+.cool {
+    bottom:119px;
+    position: relative;
+}
+.lor {
+    color: rgba(103, 179, 195);
+    font-size: 15px;
+    position: relative;
+    bottom:35px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 0px 10px;
+}
+
+.right_lor {
+    color: rgba(103, 179, 195);
+    font-size: 35px;
+    position: relative;
+    bottom:280px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 0px 10px;
+}
+.fruits {
+    color: rgba(103, 179, 195);
+    font-size: 35px;
+    position: relative;
+    bottom:445px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 0px 10px;
+    text-indent: 10px;
+}
+.meat {
+    color: rgba(103, 179, 195);
+    font-size: 35px;
+    position: relative;
+    bottom:610px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 0px 10px;
+}
+.milk {
+    color: rgba(103, 179, 195);
+    font-size: 35px;
+    position: relative;
+    bottom:780px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 0px 10px;
+}
+
+
+.col-2 {
+    background-color: rgba(242, 242, 242);
+    text-transform: uppercase;
+    color: rgba(82, 172, 191);
+    position: relative;
+    padding: 10px;
+    bottom: 42px;
+    font-size: 20px;
+    letter-spacing:2px;
+}
+h1 {
+    padding: 10px;
+    margin: 0px 0px 0px 10px;
+}
+
+.count {
+    color: rgba(244, 194, 29);
+    font-size:65px;
+    margin-left:25px;
+    position: relative;
+    bottom:35px;
+    padding:0px;
+}
+.people {
+    color: rgba(124,178,187);
+    padding: 0px;
+    margin-left:15px;
+    position: relative;
+    bottom:35px;
+    font-size: 20px;
+}
+.people1 {
+    color: rgba(124,178,187);
+    padding: 0px;
+    margin-left:42px;
+    position: relative;
+    bottom:50px;
+    font-size: 20px;
+}
+.people2 {
+    color: rgba(124,178,187);
+    padding: 0px;
+    margin-left:95px;
+    position: relative;
+    bottom:65px;
+    font-size: 20px;
+}
+
+.baner {
+    background-color:rgba(82, 172, 191);
+    width: 400px;
+    padding: 10px;
+    height: 10px;
+    margin: 0px 10px 0px 10px;
+    color:white;
+    text-transform:initial;  
+    font-size:12px;
+    text-align:center;
+}
+
+.left_baner {
+    background-color:rgba(82, 172, 191);
+    width: 400px;
+    padding: 10px;
+    position: relative;
+    bottom:30px;
+    height: 15px;
+    margin: 26px 10px 0px 10px;
+    color:white;
+    text-transform:initial;  
+    text-align:center;
+}
+
+
+.sec_baner {
+    background-color:rgba(82, 172, 191);
+    width: 400px;
+    padding: 10px;
+    height: 15px;
+    position: relative;
+    bottom:35px;
+    margin: 0px 10px 0px 10px;
+    color:white;
+    text-transform:initial;  
+    text-align:center;
+}
+.right_baner {
+    background-color:rgba(82, 172, 191);
+    width: 400px;
+    padding: 10px;
+    height: 15px;
+    position: relative;
+    bottom:270px;
+    margin: 0px 10px 0px 10px;
+    color:white;
+    text-transform:initial;  
+    text-align:center;
+}
+.rightb_baner {
+    background-color:rgba(82, 172, 191);
+    width: 400px;
+    padding: 10px;
+    height: 15px;
+    position: relative;
+    bottom:100px;
+    margin: 0px 10px 0px 10px;
+    color:white;
+    text-transform:initial;  
+    text-align:center;
+}
+.border {
+    border-radius: 50%;
+    border: 4px solid rgba(63, 93, 112);;
+    height:80px;
+    width:80px;
+    margin:  10% 30%;
+    margin-left:25px;
+    position: relative;
+    bottom:120px;
+}
+.heart_border {
+    border-radius: 50%;
+    border: 4px solid rgba(63, 93, 112);;
+    height:80px;
+    width:80px;
+    margin:  10% 30%;
+    margin-left:25px;
+    position: relative;
+    bottom:90px;
+}
+.virus_border {
+    border-radius: 50%;
+    border: 4px solid rgba(63, 93, 112);;
+    height:80px;
+    width:80px;
+    margin:  10% 30%;
+    margin-left:25px;
+    position: relative;
+    bottom:60px;
+}
+.whole {
+    padding: 285px 0px 0px 0px;
+    color: transparent;
+}
+.syringe {
+    margin:4px 0px 0px 5px;
+    
+}
+
+.heart {
+    margin:6px 0px 0px 6px;
+}
+.virus {
+    margin:5px 0px 0px 5px;
+}
+span {
+    color: rgba(244, 193, 69);
+}
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.fnt_clr {
+    color: rgba(131, 131, 131);
+    font-size: 14px;
+    margin: 0px 0px 0px 3px;
+    text-transform:initial;  
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing:normal;
+}
+.sec_clr {
+    color: rgba(131, 131, 131);
+    font-size: 14px;
+    margin: 0px 0px 0px 35px;
+    bottom:5px;
+    text-transform:initial;  
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  bottom:15px;
+
+}
+body {
+    margin: 0 15%;
+}
